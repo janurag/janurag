@@ -2,6 +2,22 @@
 <h3 align="center">I am passionate about building quality products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janurag&label=Profile%20views&color=0e75b6&style=flat" alt="janurag" /> </p>
+- 🔭 I’m currently working on [Oyelabs.com](https://oyelabs.com/)
+
+- 🌱 I’m currently learning **How to scale product to 10 million users**
+
+- 🤝 I’m looking for help with [product or platform development](https://github.com/LouisCAD/kotlin-libraries-playground)
+
+- 📝 I regulary write articles on [https://oyelabs.com/blog/](https://oyelabs.com/blog/)
+
+- 💬 Ask me about **Product Development, Software Development**
+
+- 📫 How to reach me **anurag@oyelabs.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/findanurag/](https://www.linkedin.com/in/findanurag/)
+
+- ⚡ Fun fact **Crazy for home cooked food, and always curios about learning new stuff**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
